@@ -18,9 +18,9 @@
 
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js" type="text/javascript"></script>
 
-		<script src="http://modeconkey.com/minecraft/ext/js/jquery.foundation.navigation.js"></script>
-		<script src="http://modeconkey.com/minecraft/ext/js/jquery.foundation.orbit.js"></script>
-		<script src="http://modeconkey.com/minecraft/ext/js/jquery.foundation.topbar.js"></script>
+		<script src="ext/js/jquery.foundation.navigation.js"></script>
+		<script src="ext/js/jquery.foundation.orbit.js"></script>
+		<script src="ext/js/jquery.foundation.topbar.js"></script>
 
 		<script type="text/javascript">
 		$(window).load(function() {
