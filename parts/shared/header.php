@@ -5,7 +5,7 @@
       <li class="name">
         <h1>
           <a href="/">
-            <img src="http://modeconkey.com/ext/pictures/logo.png" alt="">
+            <img src="ext/photos/logo.png" alt="">
           </a>
         </h1>
       </li>

@@ -23,10 +23,10 @@
         <div class="top">
             <div class="six columns">
                 <div class="slider">
-                    <img src="http://modeconkey.com/ext/pictures/pic1.jpg" alt="">
-                    <img src="http://modeconkey.com/ext/pictures/pic2.jpg" alt="">
-                    <img src="http://modeconkey.com/ext/pictures/pic3.jpg" alt="">
-                    <img src="http://modeconkey.com/ext/pictures/pic4.jpg" alt="">
+                    <img src="ext/photos/pic1.jpg" alt="">
+                    <img src="ext/photos/pic2.jpg" alt="">
+                    <img src="ext/photos/pic3.jpg" alt="">
+                    <img src="ext/photos/pic4.jpg" alt="">
                 </div>
             </div>
             <div class="news six columns">
