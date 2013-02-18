@@ -20,9 +20,9 @@
           <a class="active" href="#">New to Pure Battlefield?</a>
           <ul class="dropdown">
             <li><a href="http://about.purebattlefield.org/">About Us</a></li>
-            <li><a href="#">How to join</a></li>
+            <!-- TODO: Create page for this <li><a href="#">How to join</a></li> -->
             <li><a href="https://docs.google.com/spreadsheet/ccc?key=0Ar7t5EiYlTZndFRKNDZqT3F2UE0xcnp2alFjX1NwZXc#gid=3">Servers</a></li>
-            <li><a href="#">Contact Us</a></li>
+            <li><a href="http://purebattlefield0.site.nfoservers.com/contact-us/">Contact Us</a></li>
           </ul>
         </li>
         <li class="divider"></li>
@@ -47,8 +47,8 @@
             <li><a href="http://supporters.purebattlefield.org/">Our Supporters</a></li>
             <li><a href="http://volunteer.purebattlefield.org/">Become a volunteer</a></li>
             <li><a href="https://docs.google.com/spreadsheet/ccc?key=tKCfOSx48YMOV6YhUxxAiww#gid=0">Sergeant Promotions</a></li>
-            <li><a href="#">FAQ</a></li>
-            <li><a href="#">Contact Us</a></li>
+            <!-- TODO: Create page for this <li><a href="#">FAQ</a></li> -->
+            <li><a href="http://purebattlefield0.site.nfoservers.com/contact-us/">Contact Us</a></li>
           </ul>
         </li>
         <li class="divider"></li>
